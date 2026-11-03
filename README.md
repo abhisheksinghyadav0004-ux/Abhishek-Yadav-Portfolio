@@ -1,29 +1,65 @@
-# Welcome to your Lovable project
+# Abhishek Yadav | Cybersecurity Portfolio
 
-This project was built with [Lovable](https://lovable.dev).
+A personal cybersecurity portfolio showcasing practical projects, certifications, hands-on learning, and work across SOC operations, identity and access management, Blue Team security, digital forensics, and threat intelligence.
 
-## Build with Lovable
+Designed and developed by Abhishek Yadav.
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+## Highlights
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- Cybersecurity project showcase with real project visuals and GitHub links
+- Skills across SOC monitoring, IAM, Blue Team security, log analysis, and threat detection
+- Certifications and practical learning timeline
+- Downloadable resume and direct contact links
+- Responsive interface for desktop and mobile
 
-## Development
+## Featured Projects
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+- CyberSentinel AI
+- SentinelDesk - SOC Log Analyzer
+- TechCorp IdentityHub
+- GhostPermission - AI Agent Payment Authorization
+- SignalVault CTI
+- FraudX Sentinel
+- PhishShield AI
+- SecureWeb Guard
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+## Run Locally
+
+Requirements: Node.js 18 or newer.
+
+```bash
+npm install
 npm run dev
 ```
 
-## Built with
+Open the URL shown in the terminal, usually `http://localhost:5173`.
 
-- TanStack Start
-- TypeScript
+## Production Build
+
+```bash
+npm run build
+```
+
+## Technology Stack
+
 - React
+- TypeScript
+- TanStack Start
+- Vite
 - Tailwind CSS
+- Lucide Icons
+
+## Quality Checks
+
+```bash
+npm run lint
+npm run build
+```
+
+## Author
+
+Abhishek Yadav  
+Aspiring SOC Analyst | IAM and Blue Team Security Enthusiast
+
+- GitHub: [abhisheksinghyadav0004-ux](https://github.com/abhisheksinghyadav0004-ux)
+- LinkedIn: [Abhishek Yadav](https://linkedin.com/in/abhishek-yadav-619852381)
