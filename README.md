@@ -1,4 +1,4 @@
-# Abhishek Yadav | Cybersecurity Portfolio
+# Abhishek Yadav | Blue Team  Cybersecurity Portfolio
 
 A personal cybersecurity portfolio showcasing practical projects, certifications, hands-on learning, and work across SOC operations, identity and access management, Blue Team security, digital forensics, and threat intelligence.
 
